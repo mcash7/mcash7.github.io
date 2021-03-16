@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Noah McCashland</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-03-16T00:08:03-05:00</updated>
+    <updated>2021-03-16T00:38:48-05:00</updated>
     <id>https://noahmccashland.com/</id>
     <link rel="alternate" type="text/html" href="https://noahmccashland.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://noahmccashland.com/atom.xml" />
@@ -17,49 +17,83 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.81.0">Hugo</generator>
         <entry>
+            <title type="text">To Implement</title>
+            <link rel="alternate" type="text/html" href="https://noahmccashland.com/posts/to-do/" />
+            <id>https://noahmccashland.com/posts/to-do/</id>
+            <updated>2021-03-16T00:37:34-05:00</updated>
+            <published>2021-03-16T00:18:01-05:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">To Implement    about.md in content folder
+  Tweets Section
+  Podcast Interviews
+  Projects
+ Hidden Button  ​	a. Hidden Moving Button
+ Tic Tac Toe
+  Random Number Generator
+    </summary>
+            
+                <content type="html">&lt;h1 id=&#34;to-implement&#34;&gt;To Implement&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;about.md in content folder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tweets Section&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Podcast Interviews&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Projects&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hidden Button&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;​	a. Hidden Moving Button&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Tic Tac Toe&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Random Number Generator&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">My First Post</title>
             <link rel="alternate" type="text/html" href="https://noahmccashland.com/posts/my-first-post/" />
             <id>https://noahmccashland.com/posts/my-first-post/</id>
-            <updated>2021-03-16T00:07:57-05:00</updated>
+            <updated>2021-03-16T00:36:47-05:00</updated>
             <published>2021-03-15T14:53:20-05:00</published>
             <author>
                     <name>reuixiy</name>
                     <uri>https://io-oi.me/</uri>
                     <email>reuixiy@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Welcome ! what up ana :)
-Test    Test Test Test     This is a   Table I Made   :) :D :)    I’m selling this song about NFTs as an NFT pic.</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Welcome I’m selling this song about NFTs as an NFT pic.twitter.com/B4EZLlesPx
+&amp;mdash; Elon Musk (@elonmusk) March 15, 2021  </summary>
             
                 <content type="html">&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
-&lt;p&gt;! what up ana :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://noahmccashland.com/animation.gif&#34; alt=&#34;this is a picture&#34;&gt;&lt;/p&gt;
-&lt;h5 id=&#34;test&#34;&gt;Test&lt;/h5&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Test&lt;/th&gt;
-&lt;th&gt;Test&lt;/th&gt;
-&lt;th&gt;Test&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;This&lt;/td&gt;
-&lt;td&gt;is&lt;/td&gt;
-&lt;td&gt;a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Table&lt;/td&gt;
-&lt;td&gt;I&lt;/td&gt;
-&lt;td&gt;Made&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;:)&lt;/td&gt;
-&lt;td&gt;:D&lt;/td&gt;
-&lt;td&gt;:)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’m selling this song about NFTs as an NFT &lt;a href=&#34;https://t.co/B4EZLlesPx&#34;&gt;pic.twitter.com/B4EZLlesPx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Elon Musk (@elonmusk) &lt;a href=&#34;https://twitter.com/elonmusk/status/1371549960030842893?ref_src=twsrc%5Etfw&#34;&gt;March 15, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 </content>
             
